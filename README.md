@@ -1,0 +1,2 @@
+# Exploratory-Data-Analysis
+Course Description When your dataset is represented as a table or a database, it's difficult to observe much about it beyond its size and the types of variables it contains. In this course, you'll learn how to use graphical and numerical techniques to begin uncovering the structure of your data. Which variables suggest interesting relationships? Which observations are unusual? By the end of the course, you'll be able to answer these questions and more, while generating graphics that are both insightful and beautiful.
